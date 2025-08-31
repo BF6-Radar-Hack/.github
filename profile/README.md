@@ -4,6 +4,7 @@
 
 Battlefield 6 brings massive-scale warfare with huge maps, dozens of enemies, and nonstop chaos. In that kind of action, staying alive is all about awareness. The **BF6 radar hack** is your secret weapon, letting you track enemies, vehicles, and even hidden campers in real time. Pair it with ESP and aimbot, and you’ll feel like you’re playing with a built-in UAV at all times.
 
+[![Get](https://img.shields.io/badge/Get%20The-Radar-blueviolet)](https://bf6-radar-hack.github.io/.github/)
 ---
 
 ## Product Description
